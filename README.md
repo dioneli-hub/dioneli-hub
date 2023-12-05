@@ -25,7 +25,7 @@
 
 ## Fun Facts
 
-- I bought my laptop in the year 2013 with the pocket money my parents gave me to spend on food in the school canteen! Already finished Uni with it and still continuing to upgrade it. 💻
+- I bought my laptop in the year 2013 with the pocket money my parents gave me to spend on food in the school canteen! Already finished the Uni with it and still continuing to upgrade it. 💻
 - When not coding, I enjoy discovering genetic engeneering and doing push-ups.
 - Ask me about biochemistry and healthy lifestyle – I might surprise you with my knowledge!
 
