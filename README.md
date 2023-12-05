@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Diana
 
 🚀 A passionate software developer who thrives on crafting clean code and building delightful experiences.
 
