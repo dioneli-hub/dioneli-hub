@@ -6,13 +6,11 @@
 
 👨‍💻 I'm obsessed with C# and Angular, constantly exploring their depths to create innovative solutions.
 
-🌟 My journey in tech is a blend of creativity and logical thinking, always seeking new challenges to overcome.
-
 🔭 Currently brainstorming on my next project: CV-maker on .NET!
 
-🌱 I'm an advocate for long life and lifelong learning.
+🌱 I'm an advocate for the long life and lifelong learning.
 
-📫 Reach out to me at dianka_levchenko@outlook.com(mailto:dianka_levchenko@outlook.com) or connect on [LinkedIn](https://www.linkedin.com/in/diana-levchenko-779179208/).
+📫 Reach out to me at dianka_levchenko@outlook.com or connect on [LinkedIn](https://www.linkedin.com/in/diana-levchenko-779179208/).
 
 ## My Tech Stack
 
@@ -23,7 +21,7 @@
 
 ## My GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)](https://github.com/yourusername)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dioneli-hub&show_icons=true&theme=dark)](https://github.com/dioneli-hub)
 
 ## Fun Facts
 
